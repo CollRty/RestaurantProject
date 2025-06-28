@@ -1,0 +1,707 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\tableeditorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\tableeditorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\disheditorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\disheditorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\admin_tablemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\admin_tablemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\admin_statistics.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\admin_statistics.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\admin_rolemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\admin_rolemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\admin_reservationsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\admin_reservationsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\admin_menumanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\admin_menumanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\admin_menumanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\admin_menumanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\waiter_tablereservations.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\waiter_tablereservations.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\waiter_createorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\waiter_createorderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\rolebasedwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\rolebasedwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\disheditorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\disheditorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\admin_tablemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\admin_tablemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\admin_statistics.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\admin_statistics.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\admin_rolemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\admin_rolemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\admin_reservationsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\admin_reservationsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\waiter_tablereservations.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\waiter_tablereservations.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\waiter_createorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\waiter_createorderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\reservationcreatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\reservationcreatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\reservationcreatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\reservationcreatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\tableeditorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\tableeditorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\rolebasedwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\rolebasedwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|c:\\users\\\u043D\u0435\u043A\u0438\u0442\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restauranteducpractice\\restauranteducpractice\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{061C05B9-D9A9-4E43-9D01-23650A66F0E2}|RestaurantEducPractice\\RestaurantEducPractice.csproj|solutionrelative:restauranteducpractice\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\InventoryItem.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\InventoryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:09:17.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T20:44:14.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Order.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Order.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:00:30.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\OrderItem.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:32:47.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Reservation.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Reservation.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Reservation.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Reservation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T04:00:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Statistics.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Statistics.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Statistics.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Statistics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:56:16.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableEditorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\TableEditorWindow.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\TableEditorWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\TableEditorWindow.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\TableEditorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T03:40:06.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Table.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Table.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Table.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:38:36.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Waiter.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Waiter.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Waiter.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Waiter.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Waiter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:12:50.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DishEditorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\DishEditorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\DishEditorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\DishEditorWindow.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\DishEditorWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:03:19.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Dish.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Dish.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Dish.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:00:36.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Client.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Client.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Client.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:29:45.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\BoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\BoolToVisibilityConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:55:06.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\App.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\App.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T15:08:59.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin_TableManagement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_TableManagement.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Admin_TableManagement.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_TableManagement.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Admin_TableManagement.xaml.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:39:25.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin_Statistics.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_Statistics.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Admin_Statistics.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_Statistics.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Admin_Statistics.xaml.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwFoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:31:57.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Admin_RoleManagement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_RoleManagement.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Admin_RoleManagement.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_RoleManagement.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Admin_RoleManagement.xaml.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAswLAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T00:06:56.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin_ReservationsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_ReservationsView.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Admin_ReservationsView.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_ReservationsView.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Admin_ReservationsView.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAswF0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:59:14.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin_MenuManagement.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_MenuManagement.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Admin_MenuManagement.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_MenuManagement.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Admin_MenuManagement.xaml.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAQwM0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:01:57.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Admin_MenuManagement.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_MenuManagement.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Admin_MenuManagement.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_MenuManagement.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\Admin_MenuManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T03:01:37.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Waiter_TableReservations.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Waiter_TableReservations.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Waiter_TableReservations.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Waiter_TableReservations.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\Waiter_TableReservations.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T07:23:54.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Waiter_CreateOrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Waiter_CreateOrderWindow.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Waiter_CreateOrderWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Waiter_CreateOrderWindow.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\Waiter_CreateOrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T08:01:20.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RoleBasedWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\RoleBasedWindow.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\RoleBasedWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\RoleBasedWindow.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\RoleBasedWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T01:24:42.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegistrationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\RegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\RegistrationWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\RegistrationWindow.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\RegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T22:21:00.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\MainWindow.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T20:44:17.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DishEditorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\DishEditorWindow.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\DishEditorWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\DishEditorWindow.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\DishEditorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T03:02:56.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\AssemblyInfo.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:06:06.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\App.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\App.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\App.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-27T15:11:41.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\App.config",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\App.config",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\App.config",
+              "RelativeToolTip": "RestaurantEducPractice\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-28T13:05:00.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Admin_TableManagement.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_TableManagement.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Admin_TableManagement.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_TableManagement.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\Admin_TableManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T03:39:06.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Admin_Statistics.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_Statistics.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Admin_Statistics.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_Statistics.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\Admin_Statistics.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T03:31:24.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Admin_RoleManagement.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_RoleManagement.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Admin_RoleManagement.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_RoleManagement.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\Admin_RoleManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T00:06:18.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Admin_ReservationsView.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_ReservationsView.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Admin_ReservationsView.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Admin_ReservationsView.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\Admin_ReservationsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T03:58:50.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Waiter_TableReservations.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Waiter_TableReservations.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Waiter_TableReservations.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Waiter_TableReservations.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Waiter_TableReservations.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T07:24:12.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Waiter_CreateOrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Waiter_CreateOrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\Waiter_CreateOrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\Waiter_CreateOrderWindow.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\Waiter_CreateOrderWindow.xaml.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAcwJ4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:01:37.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReservationCreateWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\ReservationCreateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\ReservationCreateWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\ReservationCreateWindow.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\ReservationCreateWindow.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T04:00:55.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReservationCreateWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\ReservationCreateWindow.xaml",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\ReservationCreateWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\ReservationCreateWindow.xaml",
+              "RelativeToolTip": "RestaurantEducPractice\\ReservationCreateWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-28T04:00:35.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TableEditorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\TableEditorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\TableEditorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\TableEditorWindow.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\TableEditorWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:40:18.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoleBasedWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\RoleBasedWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\RoleBasedWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\RoleBasedWindow.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\RoleBasedWindow.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:26:13.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\App.config",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\App.config",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\App.config",
+              "RelativeToolTip": "RestaurantEducPractice\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-26T23:10:39.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RestaurantEducPractice\\RegistrationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0435\u043A\u0438\u0442\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\RestaurantEducPractice\\RestaurantEducPractice\\RegistrationWindow.xaml.cs",
+              "RelativeToolTip": "RestaurantEducPractice\\RegistrationWindow.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T22:21:45.615Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

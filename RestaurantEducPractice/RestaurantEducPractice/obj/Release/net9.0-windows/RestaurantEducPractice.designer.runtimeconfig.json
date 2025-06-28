@@ -1,0 +1,14 @@
+{
+  "runtimeOptions": {
+    "tfm": "net9.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\Некит\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Некит\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false,
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}

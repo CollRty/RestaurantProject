@@ -1,0 +1,20 @@
+﻿RestaurantEducPractice
+1.0.0.0
+
+winexe
+C#
+.cs
+F:\Visual Studio Projects\RestaurantEducPractice\RestaurantEducPractice\obj\Release\net9.0-windows\
+RestaurantEducPractice
+none
+false
+TRACE;RELEASE;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+F:\Visual Studio Projects\RestaurantEducPractice\RestaurantEducPractice\App.xaml
+13-1959477095
+
+28612376484
+222-1476259059
+Admin_MenuManagement.xaml;Admin_ReservationsView.xaml;Admin_RoleManagement.xaml;Admin_Statistics.xaml;Admin_TableManagement.xaml;DishEditorWindow.xaml;MainWindow.xaml;RegistrationWindow.xaml;ReservationCreateWindow.xaml;RoleBasedWindow.xaml;TableEditorWindow.xaml;Waiter_CreateOrderWindow.xaml;Waiter_TableReservations.xaml;
+
+False
+

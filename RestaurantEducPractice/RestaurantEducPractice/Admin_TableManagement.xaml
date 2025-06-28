@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="RestaurantEducPractice.Admin_TableManagement"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Background="#FF1E1E2F">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Управление столами"
+                   FontSize="22" Foreground="White" Margin="0,0,0,10" />
+
+        <DataGrid x:Name="TablesGrid"
+                  Grid.Row="1"
+                  AutoGenerateColumns="False"
+                  HeadersVisibility="Column"
+                  CanUserAddRows="False"
+                  Background="#FF2C2C3A"
+                  Foreground="White"
+                  RowBackground="#FF2C2C3A"
+                  AlternatingRowBackground="#FF252535"
+                  BorderBrush="#444"
+                  GridLinesVisibility="Horizontal"
+                  SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="Auto"/>
+                <DataGridTextColumn Header="Номер стола" Binding="{Binding TableNumber}" Width="150"/>
+                <DataGridTextColumn Header="Мест" Binding="{Binding Seats}" Width="100"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="150"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="Добавить" Width="120" Margin="0,0,10,0" Click="AddButton_Click"/>
+            <Button Content="Редактировать" Width="120" Margin="0,0,10,0" Click="EditButton_Click"/>
+            <Button Content="Удалить" Width="120" Margin="0,0,10,0" Click="DeleteButton_Click"/>
+            <Button Content="Обновить" Width="120" Click="RefreshButton_Click"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

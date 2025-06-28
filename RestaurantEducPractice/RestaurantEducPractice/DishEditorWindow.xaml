@@ -1,0 +1,40 @@
+﻿<Window x:Class="RestaurantEducPractice.DishEditorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактирование блюда"
+        Height="423" Width="400"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Background="#FF1E1E2F">
+
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBlock Text="Название блюда" Foreground="White" Margin="0,0,0,5"/>
+            <TextBox x:Name="NameBox" Height="30" Margin="0,0,0,10"
+                     Background="#FF2C2C3A" Foreground="White" BorderBrush="#444"/>
+
+            <TextBlock Text="Цена" Foreground="White" Margin="0,0,0,5"/>
+            <TextBox x:Name="PriceBox" Height="30" Margin="0,0,0,10"
+                     Background="#FF2C2C3A" Foreground="White" BorderBrush="#444"/>
+
+            <TextBlock Text="Категория" Foreground="White" Margin="0,0,0,5"/>
+            <ComboBox x:Name="CategoryBox" Height="30" Margin="0,0,0,10"
+                      Background="#FF2C2C3A" Foreground="White" BorderBrush="#444">
+                <ComboBoxItem Content="Завтрак"/>
+                <ComboBoxItem Content="Обед"/>
+                <ComboBoxItem Content="Ужин"/>
+                <ComboBoxItem Content="Десерты"/>
+            </ComboBox>
+
+            <TextBlock Text="Остаток порций" Foreground="White" Margin="0,0,0,5"/>
+            <TextBox x:Name="PortionsBox" Height="30" Margin="0,0,0,20"
+                     Background="#FF2C2C3A" Foreground="White" BorderBrush="#444"/>
+
+            <Button Content="Сохранить"
+                    Height="35"
+                    Background="#FF5A67D8" Foreground="White"
+                    FontWeight="SemiBold"
+                    Click="Save_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

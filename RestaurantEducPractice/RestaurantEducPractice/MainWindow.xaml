@@ -1,0 +1,90 @@
+﻿<Window 
+    x:Class="RestaurantEducPractice.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:RestaurantEducPractice"
+    mc:Ignorable="d"
+    Title="Авторизация"
+    Height="500" Width="400"
+    WindowStartupLocation="CenterScreen"
+    Background="#FF1E1E2F" 
+    ResizeMode="NoResize">
+
+    <Window.Resources>
+        <local:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+    </Window.Resources>
+
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Добро пожаловать"
+                   FontSize="26" 
+                   Foreground="White"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Bottom"
+                   Margin="0,0,0,20"
+                   FontWeight="Bold"/>
+
+        <Grid Grid.Row="1" Margin="0,0,0,15" Height="40">
+            <TextBox x:Name="LoginBox"
+                     FontSize="14"
+                     Padding="10"
+                     Background="#FF2C2C3A"
+                     Foreground="White"
+                     BorderBrush="#FF444455"
+                     BorderThickness="1"/>
+            <TextBlock Text="Email"
+                       FontSize="14"
+                       Foreground="#FF9CA3AF"
+                       Margin="15,0,0,0"
+                       VerticalAlignment="Center"
+                       IsHitTestVisible="False"
+                       Visibility="{Binding Text.IsEmpty, ElementName=LoginBox, Converter={StaticResource BoolToVisibilityConverter}}"/>
+        </Grid>
+
+        <PasswordBox x:Name="PasswordBox" Grid.Row="2" Height="40"
+                       Margin="0,0,0,15"
+                       FontSize="14"
+                       Padding="10"
+                       Background="#FF2C2C3A"
+                       Foreground="White"
+                       BorderBrush="#FF444455"
+                       BorderThickness="1"/>
+        <TextBlock Text="Password"
+                        FontSize="14"
+                        Foreground="#FF9CA3AF"
+                        Margin="15,12,0,0"
+                        VerticalAlignment="Top"
+                        IsHitTestVisible="False"
+                        Visibility="{Binding Text.IsEmpty, ElementName=LoginBox, Converter={StaticResource BoolToVisibilityConverter}}" Grid.Row="2"/>
+
+        <Button Grid.Row="3" Content="Войти"
+                Height="40"
+                Background="#FF5A67D8"
+                Foreground="White"
+                FontWeight="SemiBold"
+                FontSize="14"
+                BorderThickness="0"
+                Margin="0,0,0,10"
+                Cursor="Hand"
+                Click="LoginButton_Click"/>
+
+        <Button Grid.Row="4" Content="Регистрация"
+                Background="Transparent"
+                Foreground="#FF9CA3AF"
+                FontSize="12"
+                BorderThickness="0"
+                Cursor="Hand"
+                HorizontalAlignment="Center"
+                Click="RegisterButton_Click"/>
+    </Grid>
+</Window>
